@@ -1,0 +1,26 @@
+{
+  "newApplication": {
+    "title": "Nouvelle candidature",
+    "body": "Vous avez reçu une nouvelle candidature pour {{missionTitle}}"
+  },
+  "applicationAccepted": {
+    "title": "Candidature acceptée",
+    "body": "Votre candidature pour {{missionTitle}} a été acceptée!"
+  },
+  "applicationRejected": {
+    "title": "Mise à jour de candidature",
+    "body": "Votre candidature pour {{missionTitle}} n'a pas été retenue"
+  },
+  "newMessage": {
+    "title": "Nouveau message",
+    "body": "{{senderName}} vous a envoyé un message"
+  },
+  "missionReminder": {
+    "title": "Rappel de mission",
+    "body": "N'oubliez pas votre mission {{missionTitle}} demain!"
+  },
+  "missionUpdate": {
+    "title": "Mise à jour de mission",
+    "body": "La mission {{missionTitle}} a été mise à jour"
+  }
+}
